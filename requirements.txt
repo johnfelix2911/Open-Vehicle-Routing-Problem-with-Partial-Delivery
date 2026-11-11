@@ -1,0 +1,4 @@
+PuLP>=2.7, <3.0
+numpy>=1.21
+matplotlib>=3.5
+tabulate>=0.9
